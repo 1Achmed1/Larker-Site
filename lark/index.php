@@ -10,14 +10,14 @@ include ("connect.php");
 		<header>
 			<nav>
 				<ul>
-					<li><a href=""></a></li>
-					<li></li>
-					<li></li>
+					<li><a href="#">a</a></li>
+					<li><a href="#">a</a></li>
+					<li><a href="#">a</a></li>
 					<li><a href="larkin.php">LARKer Login</a></li>
 				</ul>
 			</nav>
 		</header>
-		<div class="mainbody">
+		<div class="main">
 			<article>
 				<strong>L</strong>egal <br />
 				<strong>A</strong>ppropriate <br />
@@ -25,6 +25,10 @@ include ("connect.php");
 				<strong>K</strong>ind <br />
 			</article>
 		</div>
+		<footer>
+			<a href="mailto:stacey_reed@wayland.k12.ma.us" target="_top">Send an email to Ms. Reed</a><br />
+			<a href="mailto:stacey_reed@wayland.k12.ma.us" target="_top">Send an email to Ms. Reed</a><br />
+		</footer>
 	</body>
 
 </html>
